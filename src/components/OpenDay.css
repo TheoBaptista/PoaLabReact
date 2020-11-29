@@ -1,0 +1,23 @@
+.OpenDay{
+    padding: 2rem;
+    background-color:#fff;
+    text-align: center;
+}
+
+.OpenDay > h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.OpenDay > p{
+    text-align: left;
+    margin-left: 33%;
+}
+
+@media screen and (max-width:960px){
+    .OpenDay > P{
+        text-align: left;
+        margin-left: 10%;
+    }
+}
+    
